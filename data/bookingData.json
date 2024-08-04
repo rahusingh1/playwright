@@ -1,0 +1,14 @@
+{
+    "booking": {
+      "firstname": "Atoool",
+      "lastname": "Soorma",
+      "totalprice": 550,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2023-01-1",
+        "checkout": "2023-01-03"
+      },
+      "additionalneeds": "Breakfast"
+    }
+  }
+  
